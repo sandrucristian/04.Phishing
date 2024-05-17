@@ -256,7 +256,7 @@ sender IP:  51[.]83[.]34[.]109
 
 This email is phishing.
 
-Serenitepure is a name used by a therapy and massage company, and in this email Serenitepure uses this name to trick people into sending information to:
+Serenitepure is a name used by a therapy and massage company, and in this email uses this name to trick people into sending information to:
 
 `hxxtp[://]secure-netcloud[.]com/?a=71&amp;c=76&amp;s1=dadaa&amp;email=phishing@pot.org`
 
