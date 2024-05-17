@@ -1,4 +1,5 @@
-# Phising
+# phishing analysis
+
 
 I will analyze the following email files to find out who sent them and the purpose.
 
