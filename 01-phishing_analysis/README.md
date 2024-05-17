@@ -214,9 +214,9 @@ The official address for Tinder is https://tinder.com/ and all their emails end 
 
 From : Dr. Dan Miller babakingsouthmichael[@]gmail[.]com
 
-return path : imorourafiatou0@gmail.com
+return path : imorourafiatou0[@]gmail[.]com
 
-Reply-To: imorourafiatou0@gmail.com
+Reply-To: imorourafiatou0[@]gmail[.]com
 
 to Bcc : becode@phishing-me.be
 
