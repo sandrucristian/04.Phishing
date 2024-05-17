@@ -24,7 +24,7 @@ https://www.systoolsgroup.com/eml-viewer.html
 
 I load the 5 *.EML files, the details can be seen in the following image
 
-![image-1 SysTools EML Viewer Tool ](assets\1.jpg)
+![image-1 SysTools EML Viewer Tool ](assets/1.jpg)
 
 ### email_1.eml
 
