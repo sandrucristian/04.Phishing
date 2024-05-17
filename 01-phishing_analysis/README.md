@@ -24,7 +24,7 @@ https://www.systoolsgroup.com/eml-viewer.html
 
 I load the 5 *.EML files, the details can be seen in the following image
 
-![image-1 SysTools EML Viewer Tool ](assets\1.jpg)
+![image-1 SysTools EML Viewer Tool ](assets/1.jpg)
 
 ### email_1.eml
 
@@ -171,7 +171,7 @@ Accessing the link into the virtual machine, the following picture shows the sus
 
 `hxxp[://]www[.]midnightmagicevents[.]com`
 
-![hxxp[://]www[.]midnightmagicevents[.]com](assets\mn.jpg)
+![hxxp[://]www[.]midnightmagicevents[.]com](assets/mn.jpg)
 
 This email is very strange.
 
@@ -181,7 +181,7 @@ The name midnightmagicevents comes from an event organizer, for example weddings
 
  `hxxps[://]climovil[.]com`
 
- ![hxxps[://]climovil[.]com](assets\climovil.jpg)
+ ![hxxps[://]climovil[.]com](assets/climovil.jpg)
  
  which sells cooling equipment. And the content of the email shows that it is about verifying the cryptocurrency etherum account
 
@@ -237,7 +237,7 @@ https://www.undrr.org/fraud-alert
 
 "The United Nations Office for Disaster Risk Reduction does not request any information related to bank accounts or other private information."
 
-![fraud](assets\fraud.jpg)
+![fraud](assets/fraud.jpg)
 
 ### email_5.eml
 
